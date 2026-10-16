@@ -1,0 +1,11 @@
+﻿.env
+.env.*
+!.env.example
+**/node_modules/
+**/.terraform/
+**/terraform.tfstate*
+**/terraform.tfstate.backup
+**/terraform.tfvars
+**/terraform.tfvars.json
+**/terraform.tfstate.d/
+**/.env
