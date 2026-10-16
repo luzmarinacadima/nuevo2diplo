@@ -9,3 +9,11 @@
 **/terraform.tfvars.json
 **/terraform.tfstate.d/
 **/.env
+
+# Copias de seguridad locales
+codigo 3c respaldo/
+
+# Archivos locales de codigo 3c
+codigo 3c/.vscode/
+codigo 3c/*.log
+codigo 3c/capa_negocio/adada.eap
